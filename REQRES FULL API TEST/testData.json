@@ -1,0 +1,14 @@
+[
+   {
+      "SERVICE_END_POINT":"https://reqres.in",
+      "RESOURCE_END_POINT":"api/register/qa",
+      "email":"talha.qa@reqres.in",
+      "password":"talha11"
+   },
+   {
+      "SERVICE_END_POINT":"https://reqres.in",
+      "RESOURCE_END_POINT":"api/register/qa",
+      "email":"sani.qa@reqres.in",
+      "password":"sani11"
+   }
+]

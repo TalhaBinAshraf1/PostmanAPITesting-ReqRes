@@ -1,0 +1,3 @@
+SERVICE_END_POINT,RESOURCE_END_POINT,email,password
+https://reqres.in,api/register/qa,talha.qa@reqres.in,talha11
+https://reqres.in,api/register/dev,sani.qa@reqres.in,sani11
